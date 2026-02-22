@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "merge-o-matic-viewer"
-version = "0.1.1"
+version = "0.1.2"
 description = "GTK4 merge helper for Ubuntu-Debian synchronization"
 requires-python = ">=3.10"
 license = "GPL-3.0-or-later"
