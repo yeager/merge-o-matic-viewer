@@ -1,21 +1,20 @@
 # Merge-o-Matic Viewer
 
-Merge helper for Ubuntu-Debian synchronization.
+Merge helper for Ubuntu-Debian package synchronization.
 
-GTK4/Adwaita · Python · v0.1.1 · 20 translatable strings
+Built with GTK4/Adwaita. Part of the [Danne L10n Suite](https://github.com/yeager/debian-repo).
 
-## Install
+## Installation
 
-### Ubuntu / Debian
+### Debian/Ubuntu
 ```bash
 sudo apt install merge-o-matic-viewer
 ```
-Repo: [yeager/debian-repo](https://github.com/yeager/debian-repo)
-
-## Translation
-
-Translated via [Transifex](https://app.transifex.com/danielnylander/merge-o-matic-viewer/). 11 languages.
 
 ## License
 
-GPL-3.0-or-later · Daniel Nylander <daniel@danielnylander.se>
+GPL-3.0
+
+## Author
+
+Daniel Nylander — [danielnylander.se](https://danielnylander.se)
