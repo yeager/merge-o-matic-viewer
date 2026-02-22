@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the merge-o-matic-viewer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: merge-o-matic-viewer 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 07:09+0100\n"
+"PO-Revision-Date: 2026-02-22 07:13+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305201/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/merge_o_matic_viewer/main.py:51 src/merge_o_matic_viewer/main.py:59
+#: src/merge_o_matic_viewer/main.py:290
+msgid "Merge-o-Matic Viewer"
+msgstr "Merge-o-Matic Viewer"
+
+#: src/merge_o_matic_viewer/main.py:64
+msgid "Open merge report"
+msgstr "Öppna sammanslagningsrapport"
+
+#: src/merge_o_matic_viewer/main.py:70 src/merge_o_matic_viewer/main.py:247
+msgid "Settings"
+msgstr "Inställningar"
+
+#: src/merge_o_matic_viewer/main.py:71
+msgid "Copy Debug Info"
+msgstr "Kopiera felsökningsinformation"
+
+#: src/merge_o_matic_viewer/main.py:72
+msgid "Keyboard Shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/merge_o_matic_viewer/main.py:73
+msgid "About Merge-o-Matic Viewer"
+msgstr "Om Merge-o-Matic Viewer"
+
+#: src/merge_o_matic_viewer/main.py:118
+msgid "Ready"
+msgstr "Redo"
+
+#: src/merge_o_matic_viewer/main.py:133
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: src/merge_o_matic_viewer/main.py:139
+msgid "Welcome to Merge-o-Matic Viewer"
+msgstr "Välkommen till Merge-o-Matic Viewer"
+
+#: src/merge_o_matic_viewer/main.py:140
+msgid ""
+"Simplify Ubuntu-Debian merges.\n"
+"\n"
+"✓ View merge conflicts visually\n"
+"✓ Side-by-side Ubuntu vs Debian comparison\n"
+"✓ changelog diff highlighting\n"
+"✓ Suggest automatic resolutions\n"
+"✓ Export merge patches"
+msgstr ""
+"Förenkla Ubuntu-Debian-sammanslagningar.\n"
+"\n"
+"✓ Visa sammanslagningskonflikter visuellt\n"
+"✓ Jämförelse mellan Ubuntu och Debian sida vid sida\n"
+"✓ Markering av skillnader i ändringsloggen\n"
+"✓ Föreslå automatiska lösningar\n"
+"✓ Exportera sammanslagningspatchar"
+
+#: src/merge_o_matic_viewer/main.py:147
+msgid "Get Started"
+msgstr "Kom igång"
+
+#: src/merge_o_matic_viewer/main.py:171
+msgid "Open merge report or .dsc file"
+msgstr "Öppna sammanslagningsrapport eller .dsc-fil"
+
+#: src/merge_o_matic_viewer/main.py:208
+#, python-format
+msgid "Loaded %(count)d sections from %(file)s"
+msgstr "Läste in %(count)d avsnitt från %(file)s"
+
+#: src/merge_o_matic_viewer/main.py:250
+msgid "Display"
+msgstr "Visning"
+
+#: src/merge_o_matic_viewer/main.py:251
+msgid "Show context lines"
+msgstr "Visa kontextrader"
+
+#: src/merge_o_matic_viewer/main.py:271
+msgid "Debug info copied"
+msgstr "Felsökningsinformation kopierades"
+
+#: src/merge_o_matic_viewer/main.py:277
+msgid "General"
+msgstr "Allmänt"
+
+#: src/merge_o_matic_viewer/main.py:279
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/merge_o_matic_viewer/main.py:280
+msgid "Keyboard shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/merge_o_matic_viewer/main.py:297
+msgid ""
+"Visual merge helper for Ubuntu-Debian package synchronization with conflict "
+"resolution."
+msgstr ""
+"Visuell hjälp för sammanslagning av Ubuntu-Debian-paket med konfliktlösning."

@@ -1,7 +1,7 @@
 [main]
 host = https://www.transifex.com
 
-[o:danielnylander:p:merge-o-matic-viewer:r:merge-o-matic-viewer-pot]
+[o:danielnylander:p:merge-o-matic-viewer:r:merge_o_matic_viewer]
 file_filter = po/<lang>.po
 source_file = po/merge-o-matic-viewer.pot
 source_lang = en
